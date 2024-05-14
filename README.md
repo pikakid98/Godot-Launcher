@@ -1,5 +1,5 @@
 # Godot Launcher
-A super simple AutoHotkey script to launch Godot without having to re-edit your shortcuts due to the fact that Godot keeps changing the version number on the file's name
+A super simple AutoHotkey script to launch [Godot](https://godotengine.org/) without having to re-edit your shortcuts due to the fact that Godot keeps changing the version number on the file's name
 
 # Whyyyyyy?
 Because I can
