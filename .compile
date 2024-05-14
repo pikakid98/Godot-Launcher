@@ -1,4 +1,4 @@
-echo [Godot] >> "Output\version.ini"
-echo Version= >> "Output\version.ini"
+echo [Godot] >> "Output\App\Launcher\version.ini"
+echo Version= >> "Output\App\Launcher\version.ini"
 
 "%AHK%\Compiler\Ahk2Exe.exe" /in "Godot Launcher.ahk" /out "Output\Godot Launcher.exe" /icon "icon.ico" /compress 2 /base "%AHK%\v2\AutoHotkey64.exe"
